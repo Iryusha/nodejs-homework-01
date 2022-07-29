@@ -10,20 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eijjeka/nodejs-homework-01.git"
+    "url": "git+https://github.com/Iryusha/nodejs-homework-01.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eijjeka/nodejs-homework-01/issues"
+    "url": "https://github.com/Iryusha/nodejs-homework-01/issues"
   },
-  "homepage": "https://github.com/eijjeka/nodejs-homework-01#readme",
+  "homepage": "https://github.com/Iryusha/nodejs-homework-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.19"
   },
   "dependencies": {
-    "commander": "^9.3.0",
+    "commander": "^9.4.0",
     "uuid": "^8.3.2",
     "yargs": "^17.5.1"
   }
